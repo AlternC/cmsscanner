@@ -1,1 +1,4 @@
 debian/cmsscanner/
+debian/.debhelper/
+debian/cmsscanner/
+debian/files
