@@ -2,3 +2,6 @@ debian/cmsscanner/
 debian/.debhelper/
 debian/cmsscanner/
 debian/files
+debian/cmsscanner.debhelper.log
+debian/cmsscanner.substvars
+debian/debhelper-build-stamp
